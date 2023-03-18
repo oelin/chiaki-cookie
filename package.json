@@ -1,6 +1,6 @@
 {
   "name": "chiaki-cookie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple cookie parser for Chiaki.",
   "type": "module",
   "main": "index.js",
